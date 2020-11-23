@@ -1,6 +1,8 @@
 # Social
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+Project developed as an example for the discipline's activity Web Programming I: 2020.1 IFPB - Paraíba Federal Institute of Education, Science and Technology.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
 
